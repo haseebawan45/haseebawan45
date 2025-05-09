@@ -14,7 +14,7 @@
   - 💻 Full-time code enthusiast & part-time problem solver
   - 🛠️ Building beautiful, functional apps with Flutter
   - 🌐 Crafting responsive web experiences
-  - � Low-level programming explorer (C++, Java, Kotlin, Assembly)
+  - 🔍 Low-level programming explorer (C++, Java, Kotlin, Assembly)
   - 📚 Constantly learning and growing in tech
   - ☕ Fueled by coffee and complex algorithms
 </p>
