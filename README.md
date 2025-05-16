@@ -79,7 +79,7 @@
   <a href="mailto:haseebawang4545@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://haseebawan45.github.io/PortFolio/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a>
 </div>
