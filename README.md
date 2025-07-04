@@ -58,15 +58,6 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=haseebawan45&theme=radical" alt="GitHub Streak" />
 </div>
 
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/haseebawan45/Specialist_Doctors">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haseebawan45&repo=Specialist_Doctors&theme=radical" />
-  </a>
-</div>
 
 ---
 
