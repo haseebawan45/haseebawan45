@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Haseeb Tariq</h1>
 <h3 align="center">Flutter & Full Stack Developer | Telegram Bot Developer | UI/UX Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=5D3FD3&center=true&vCenter=true&width=500&lines=Flutter+App+Developer;Full+Stack+Web+Developer;Telegram+Bot+Developer;Stripe+Payment+Integrator;UI%2FUX+Enthusiast" alt="Typing Animation" />
-</p>
+
 
 ---
 
