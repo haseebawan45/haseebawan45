@@ -1,6 +1,6 @@
 <!-- GitHub README for Haseeb Tariq -->
 
-<h1 align="center">Hi 👋, I'm Haseeb Tariq</h1>
+<h1 align="center">Hi, I'm Haseeb Tariq</h1>
 <h3 align="center">Flutter & Full Stack Developer | Telegram Bot Developer | UI/UX Enthusiast</h3>
 
 
