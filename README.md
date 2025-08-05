@@ -12,7 +12,7 @@
 
 ---
 
-## � About Me
+## 🚀 About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" align="right" />
@@ -108,7 +108,11 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haseebawan45&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=haseebawan45&label=Profile%20views&color=0e75b6&style=flat" alt="haseebawan45" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/haseebawan45/haseebawan45/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
@@ -116,5 +120,3 @@
   <br>
   <em><b>Always happy to collaborate!</b> Let's build something amazing together 🚀</em>
 </p>
-
-![Snake animation](https://github.com/haseebawan45/haseebawan45/blob/output/github-contribution-grid-snake.svg)
