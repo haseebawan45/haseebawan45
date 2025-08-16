@@ -17,7 +17,6 @@
 - 👯 Looking to collaborate on **open-source Flutter projects**
 - 🤝 Seeking help with **low-level programming optimizations**
 - 💬 Ask me about **Flutter, UI/UX, or payment integrations**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 </p>
 
 ---
