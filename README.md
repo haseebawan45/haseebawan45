@@ -69,7 +69,7 @@
   <a href="mailto:haseebawang4545@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://my-portfolio-five-nu-gxqtt9q5a0.vercel.app/">
+  <a href="https://haseebawan.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
